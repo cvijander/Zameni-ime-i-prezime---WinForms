@@ -1,0 +1,11 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\bin\Debug\Zameni ime prezime.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\bin\Debug\Zameni ime prezime.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\bin\Debug\Zameni ime prezime.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni_ime_prezime.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni_ime_prezime.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Zameni ime prezime\Zameni ime prezime\obj\Debug\Zameni ime prezime.pdb
